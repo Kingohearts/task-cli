@@ -8,6 +8,8 @@ https://roadmap.sh/projects/task-tracker
 
 # Usage Instructions as per project specs in the site
 
+Add task-cli binary to environment path if you want to use at all times
+
 ```# Adding a new task
 task-cli add "Buy groceries"
 # Output: Task added successfully (ID: 1)
